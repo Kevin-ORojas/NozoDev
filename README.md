@@ -19,6 +19,6 @@ I'm not currently working, but soon I will be✍🏻<br><br>I am looking to coll
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kevin Rojas&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NozoDev&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
