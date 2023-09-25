@@ -1,5 +1,14 @@
 # 💫 About Me:
-I am looking to collaborate on projects and to be given the opportunity to start one 👋🏻<br>I am looking for help to be a good front end developer.💻<br>I am currently learning full stack development, but I like the front end part better, in the same way I can be in the backend, I am with Javascript, React Vite and tailwindCss<br>ask me about web desing usability🤖<br>im looking for team working🤝
+👋 ¡Hola! Soy Kevin Rojas, un apasionado programador en constante aprendizaje y crecimiento. Mi viaje en el mundo del desarrollo comenzó como un programador junior, y desde entonces he estado explorando y mejorando mis habilidades en el fascinante mundo de la programación.
+
+💻 Mi enfoque principal se encuentra en la creación de soluciones innovadoras y eficientes utilizando diversas tecnologías. Siempre estoy dispuesto a enfrentar nuevos desafíos y aprender nuevas tecnologías que me permitan mejorar mis habilidades y contribuir a proyectos emocionantes.
+
+🌱 Actualmente, estoy enfocado en [JavaScript, React Js, Tailwind Css, PostgreSQL, Nodejs y express].
+
+🤝 Estoy emocionado de formar parte de la comunidad de GitHub y de colaborar con otros desarrolladores para crear soluciones impactantes. Siempre estoy abierto a la retroalimentación y la colaboración, así que no dudes en contactarme si tienes alguna idea o proyecto interesante en mente.
+
+¡Gracias por visitar mi perfil! Espero que encuentres mi trabajo interesante y útil. ¡Vamos a construir cosas geniales juntos!
+
 
 
 ## 🌐 Socials:
